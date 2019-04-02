@@ -1,0 +1,39 @@
+#intro #profile
+{
+    display: none;
+}
+#intro #protext
+{   
+    margin-left: 1%;
+}
+#view
+{
+    width: 100%;
+    
+}
+#view #tabs
+{
+    width: 100%;
+    
+    margin-bottom: 2%;
+    
+}
+#view #tabs ul li
+{
+    font-size: 15px;
+}
+#view #tabs #this
+{
+    display: none;
+    
+}
+
+#view #images
+{
+    width: 300px;
+    margin: 0 auto;
+}
+#footer
+{
+    width: 100%;
+}
